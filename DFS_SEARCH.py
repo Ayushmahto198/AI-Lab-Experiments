@@ -32,3 +32,9 @@ if dfs_search(graph, 'A', target, visited):
     print("Target Found")
 else:
     print("Target Not Found")
+
+"""
+-----------------------------------------------O U T P U T---------------------------------------------
+Target Found
+"""
+

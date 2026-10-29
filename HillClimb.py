@@ -29,3 +29,10 @@ best_state, best_value = hill_climbing(start)
 
 print("Best State:", best_state)
 print("Best Value:", best_value)
+
+"""
+---------------------------------------------------O U T P U T------------------------------------------------------
+Best State: 3
+Best Value: 9
+
+"""

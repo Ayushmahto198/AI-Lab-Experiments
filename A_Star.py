@@ -89,3 +89,12 @@ path, cost = a_star(
 
 print("Shortest Path:", path)
 print("Total Cost:", cost)
+
+
+"""
+-------------------------------------------------O U T P U T-----------------------------------------
+
+Shortest Path: ['A', 'B', 'D', 'E']
+Total Cost: 7
+
+"""

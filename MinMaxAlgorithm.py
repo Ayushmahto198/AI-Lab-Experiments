@@ -28,3 +28,8 @@ height = int(math.log2(len(values)))
 optimal_value = minimax(0, 0, True, values, height)
 
 print("Optimal value:", optimal_value)
+
+"""
+--------------------------------------------------O U T P U T------------------------------------------------
+Optimal value: 12
+"""

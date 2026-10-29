@@ -78,3 +78,18 @@ for turn in range(9):
 else:
     display_board()
     print("Game Draw!")
+
+    """
+    ----------------------------------------------O U T P U T----------------------------------------------
+
+    Player O 's turn
+Enter position (1-9): 6
+
+X | O | O
+--+---+--
+  | X | O
+--+---+--
+X | X | O
+
+Player O wins!
+    """
